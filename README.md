@@ -1,4 +1,7 @@
+
 # flutter_linfeng App
+
+[![Build Status](https://travis-ci.com/jeffsui/flutter_linfeng.svg?branch=master)](https://travis-ci.com/jeffsui/flutter_linfeng)
 
 Linfeng is a modern messaging app
 
