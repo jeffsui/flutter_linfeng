@@ -13,7 +13,7 @@ import 'package:linfeng/main.dart';
 void main() {
 
   testWidgets('checking if hello world shows up', (WidgetTester tester) async{
-    await tester.pumpWidget(MyApp());
+    await tester.pumpWidget(Linfeng());
     expect(find.text('Hello World!'),findsOneWidget);
   });
 }

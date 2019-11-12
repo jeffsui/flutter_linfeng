@@ -74,4 +74,7 @@
 
 #Platfrom specific
 /android/app/google-services.json
+
+#flutter web
+/web/
 /ios/
