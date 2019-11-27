@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:linfeng/pages/ConversationPage.dart';
+//import 'package:linfeng/pages/ConversationPage.dart';
 import 'package:linfeng/pages/ConversationPageList.dart';
 
 void main() => runApp(Linfeng());
